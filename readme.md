@@ -4,10 +4,9 @@
 
 -----------> AZ-400 Advance Labs Manual <------------ 
  
-   >>>>>>>>  https://microsoftlearning.github.io/mslearn-devops  <<<<<<<<
+ >>>>>>>>  https://microsoftlearning.github.io/mslearn-devops  <<<<<<<<
 
 
-|..............|.........|..........|...........|.............|...........|
 
 # AZ-400: Designing and Implementing Microsoft DevOps Solutions
 
