@@ -3,7 +3,9 @@
 > The new repository for DevOps labs can be found here: [MicrosoftLearning/mslearn-devops](https://github.com/MicrosoftLearning/mslearn-devops)
 
 -----------> AZ-400 Advance Labs Manual <------------ 
+ 
    >>>>>>>>  https://microsoftlearning.github.io/mslearn-devops  <<<<<<<<
+
 
 |..............|.........|..........|...........|.............|...........|
 
