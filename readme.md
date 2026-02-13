@@ -4,6 +4,8 @@
 
 # AZ-400: Designing and Implementing Microsoft DevOps Solutions
 
+https://microsoftlearning.github.io/mslearn-devops
+
 ## Welcome
 
 This repository is for instructors teaching Microsoft courses. If you are in class, please ask your instructor for assistance. 
